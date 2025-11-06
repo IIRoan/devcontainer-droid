@@ -1,0 +1,14 @@
+{
+  "id": "droid-cli",
+  "version": "1.0.0",
+  "name": "Droid CLI",
+  "description": "Installs the Factory Droid CLI along with its bundled ripgrep dependency.",
+  "documentationURL": "https://github.com/iiroan/devcontainer-droid",
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/common-utils"
+  ],
+  "platforms": [
+    "linux/amd64",
+    "linux/arm64"
+  ]
+}
