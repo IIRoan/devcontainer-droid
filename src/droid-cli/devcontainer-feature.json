@@ -6,9 +6,5 @@
   "documentationURL": "https://github.com/iiroan/devcontainer-droid",
   "installsAfter": [
     "ghcr.io/devcontainers/features/common-utils"
-  ],
-  "platforms": [
-    "linux/amd64",
-    "linux/arm64"
   ]
 }
