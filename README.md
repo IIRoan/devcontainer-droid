@@ -10,7 +10,7 @@ This repository packages the Factory **Droid CLI** as a reusable [Dev Container 
 
 ## Usage
 
-Reference the feature from your `devcontainer.json`. The example below assumes the feature is published to the GitHub Container Registry as `ghcr.io/iiroan/devcontainer-droid/droid-cli`:
+Add the feature in your `devcontainer.json`.
 
 ```jsonc
 {
